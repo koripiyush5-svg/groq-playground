@@ -1,0 +1,22 @@
+{
+  "name": "groq-playground",
+  "version": "1.0.0",
+  "description": "Interactive Groq LPU Playground with Zero-Shot, One-Shot, and Fused-Shot Classifier",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "groq",
+    "playground",
+    "zero-shot",
+    "one-shot",
+    "fused-shot",
+    "few-shot",
+    "llm",
+    "lpu",
+    "classifier"
+  ],
+  "author": "Piyush Kori",
+  "license": "MIT"
+}
